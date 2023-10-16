@@ -9,3 +9,6 @@ class TestMCD(unittest.TestCase):
     def test_TC5(self): self.assertEqual(MCD.mcd(2, 2), 2)
     def test_TC6(self): self.assertEqual(MCD.mcd(4, 2), 2)
     def test_TC7(self): self.assertEqual(MCD.mcd(2, 4), 2)
+
+# if __name__ == "__main__":
+#     unittest.main()
