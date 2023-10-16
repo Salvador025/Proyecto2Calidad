@@ -12,7 +12,7 @@ def mcd(x, y):
                 y = y - x
         return x
     
-if __name__ == "__main__":
+'''if __name__ == "__main__":
     X = int(input("Ingrese el primer número: "))
     Y = int(input("Ingrese el segundo número: "))
-    print("El MCD es: ", mcd(X, Y))
+    print("El MCD es: ", mcd(X, Y))'''
